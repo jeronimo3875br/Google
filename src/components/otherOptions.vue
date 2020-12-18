@@ -18,7 +18,7 @@
     margin-left: 17px;
     padding: 7px;
     color: #414141;
-    background-color: #FFFFF0;
+    background-color: #f2f2f2;
     border: none;
 }
 
